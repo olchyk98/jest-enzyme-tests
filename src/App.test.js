@@ -47,5 +47,5 @@ describe('Test the counter component', () => {
 		enR("-"); // func
 		exN(0); // state
 		enI(0); // h1
-	})
+	});
 });
